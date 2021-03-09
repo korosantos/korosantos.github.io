@@ -1,0 +1,73 @@
+@font-face {
+  font-family: Athiti;
+  src: url("/font/athiti.ttf");
+}
+
+@font-face {
+  font-family: GrandHotel;
+  src: url("/font/Grandhotel.ttf");
+}
+
+@font-face {
+  font-family: Pacifico;
+  src: url("/font/Pacifico.ttf");
+}
+.project,
+.footer {
+  padding-top: 2rem;
+  background-color: #16425c;
+}
+.profile {
+  padding-top: 6rem;
+  background-color: #16425c;
+}
+.profile img {
+  width: 180px;
+  height: 200px;
+}
+.contact {
+  background-color: white;
+}
+
+h2 {
+  font-family: "Pacifico";
+  font-size: 40px;
+}
+
+label {
+  font-family: "GrandHotel";
+}
+.nav-item {
+  font-family: "Athiti";
+}
+
+.navbar-brand,
+.ini {
+  font-family: "Pacifico";
+}
+
+p,
+h1 {
+  font-family: "Athiti";
+}
+
+.ini {
+  padding-left: 60px;
+  padding-right: 60px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #16425c;
+  color: white;
+}
+
+.progress-bar {
+  background-color: #16425c;
+}
+
+.footer {
+  padding-bottom: 30px;
+}
+
+section {
+  padding-top: 10rem;
+}
