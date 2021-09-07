@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+
+.profil .container-fluid {
+    
+    padding-top: 175px;
+    padding-bottom: 200px;
+}
+
+
+.navbar-brand, a{
+    font-family: 'Montserrat',sans-serif;
+}
+
+
+
